@@ -101,5 +101,6 @@ public class MainManager : MonoBehaviour
         topPlayerName = "";
         InitializateList();
         SaveAllData();
+        LoadAllData();
     }
 }

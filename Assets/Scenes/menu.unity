@@ -1196,7 +1196,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1684387158}
         m_TargetAssemblyTypeName: MenuUI, Assembly-CSharp
-        m_MethodName: OnClearClck
+        m_MethodName: OnClearClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
